@@ -6,12 +6,28 @@
             font-size: 14px
 
 @media (max-width: 992px)
-    //
+    .about-btc
+        p
+            font-size: 14px
 
 @media (max-width: 768px)
     .header
         padding-top: 35%
         background-size: 140%
+
+    .about-btc
+        padding-top: 250px
+        &_text
+            &::after
+                content: ''
+                position: absolute
+                width: 100%
+                height: 330px
+                top: -250px
+                left: 0
+                background-image: url(../img/about-section-arrow.png)
+                background-repeat: no-repeat
+                background-size: 100%
 
 @media (max-width: 576px)
     .header
@@ -23,3 +39,17 @@
         &_button
             font-size: 17px
             padding: 10px 20px
+
+    .about-btc
+        padding-top: 220px
+        &_text
+            &::after
+                content: ''
+                position: absolute
+                width: 100%
+                height: 330px
+                top: -220px
+                left: 0
+                background-image: url(../img/about-section-arrow.png)
+                background-repeat: no-repeat
+                background-size: 100%
