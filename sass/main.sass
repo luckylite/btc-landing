@@ -60,6 +60,8 @@ body
         font-size: 20px
         color: #fff
         text-decoration: none
+        &:hover
+            background-color: #777
 
 .about-btc
     top: -80px
@@ -69,7 +71,7 @@ body
     background-repeat: no-repeat
     background-size: cover
     position: relative
-    padding-top: 150px
+    padding-top: 180px
     padding-bottom: 120px
     color: #fff
     box-shadow: 3px 50px 60px rgba(0, 0, 0, 0.5)
@@ -95,7 +97,7 @@ body
             position: absolute
             width: 750px
             height: 330px
-            top: -80px
+            top: -110px
             left: -450px
             background-image: url(../img/about-section-arrow.png)
             background-repeat: no-repeat
@@ -109,6 +111,11 @@ body
     position: relative
     top: -80px
     background-color: #2b2b2b
+    background-image: url(../img/feedback-bg.png)
+    background-repeat: no-repeat
+    background-position-x: 0
+    background-position-y: calc(100% + 30px)
+    background-size: 90px
     padding: 50px 0
     &_text
         text-align: center
@@ -131,6 +138,8 @@ body
             font-size: 14px
             width: 100%
             max-width: 260px
+            &:focus::placeholder
+                color: #fff
             &:focus
                 outline: none
             &::placeholder
@@ -150,6 +159,12 @@ body
             &:hover
                 background-color: #fff
                 color: #000
+        .form-success
+            color: green
+            margin-top: 20px
+        .form-error
+            color: #ca2525
+            margin-top: 20px
 
 .footer
     background-color: #000
