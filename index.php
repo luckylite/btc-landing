@@ -318,8 +318,7 @@ $phoneNumberCode = $countryArray[$country_code]['code'];
     <footer class="footer">
         <div class="container">
             <div class="footer_text">
-                <div class="footer_logo">Your Logo |</div>
-                <div class="footer_copy">trade100fm &copy; 2019</div>
+                <div class="footer_logo">trade100fm &copy; 2019</div>
                 <div class="footer_phone">+74993717705<br>+43720072523</div>
             </div>
         </div>
