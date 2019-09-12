@@ -107,5 +107,45 @@ body
     top: -80px
     background-color: #2b2b2b
     padding: 50px 0
+    &_text
+        text-align: center
+        color: #fff
+    &_form
+        background-color: #000
+        padding: 10px 20px
+        padding-bottom: 50px
+        text-align: center
+        color: #fff
+        border-radius: 15px
+        h3
+            font-weight: normal
+            margin-bottom: 20px
+        input
+            padding: 15px 25px
+            border-radius: 5em
+            margin-bottom: 25px
+            border: 1px solid silver
+            font-size: 14px
+            width: 100%
+            max-width: 260px
+            &:focus
+                outline: none
+            &::placeholder
+                text-align: center
+                font-family: FontAwesome
+                color: silver
+        button
+            width: 100%
+            max-width: 260px
+            border-radius: 5em
+            background-color: #595757
+            border: none
+            padding: 15px
+            color: #fff
+            cursor: pointer
+            text-transform: uppercase
+            &:hover
+                background-color: #fff
+                color: #000
     
 @import _media.sass
