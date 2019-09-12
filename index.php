@@ -262,9 +262,9 @@ $phoneNumberCode = $countryArray[$country_code]['code'];
     <header class="header">
         <div class="container">
             <div class="header_container tac">
-                <h1 class="header_title">Lorem, ipsum dolor sit amet<br>consectetur adipisicing.</h1>
-                <p class="header_subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, optio.</p>
-                <p class="header_text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea commodi nemo ut porro quos doloremque, magnam omnis deleniti labore maxime exercitationem, nihil cumque, quae blanditiis. Autem est magni sequi atque voluptas a! At, autem aperiam. Provident nisi blanditiis quibusdam sint iusto minima laboriosam natus eos a ducimus voluptas voluptate, totam iste vel quos repellendus, earum nobis cumque. Adipisci dolorum neque, officia, sapiente numquam doloribus quaerat maxime quisquam aliquam, accusamus debitis!</p>
+                <h1 class="header_title">Инвестируйте сегодня, чтобы<br>завтра проснуться другим.</h1>
+                <p class="header_subtitle">Занимайтесь вложениями прямо у себя дома.</p>
+                <p class="header_text">В связи со стремительным ростом биткоина на протяжении последних 5 месяцев Заработать на криптовалюте стало проще чем раньше. Инвестируя сегодня 8$ вы получаете 9$ уже завтра. Оставляйте свою заявку и получите шанс найти свою золотую жилу.</p>
                 <a href="#feedback" class="header_button">Заполнить Бриф</a>
             </div>
         </div>
@@ -275,13 +275,14 @@ $phoneNumberCode = $countryArray[$country_code]['code'];
             <div class="row">
                 <div class="col-sm-12 col-md-6 offset-md-6">
                     <div class="about-btc_text">
-                        <h2 class="about-btc_title tac">Что-то о BTC</h2>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis corrupti, nam reprehenderit accusantium illo velit, odit doloremque aliquid impedit neque a quo quisquam? Necessitatibus eveniet ratione illo consectetur similique, est laborum repellat modi rem dignissimos ducimus iusto eligendi fugiat fugit quos vero ipsum perferendis, distinctio dolorum quae commodi. Vitae suscipit explicabo, cumque ullam, ab possimus blanditiis exercitationem sunt distinctio deserunt laboriosam facere iure ratione magnam fugit illum. Impedit alias enim, veritatis sequi repellat harum aliquam rerum. Provident nulla ipsa repellat?</p>
+                        <h2 class="about-btc_title tac">Немного о BTC</h2>
+                        <p>Биткоин впервые увидел свет в 2009 году. Появившаяся из под руки некого Сатоси Накамото криптовалюта сразу выросла в стоимости в несколько раз, однако на самом запуске проэкта 1 биткоин стоил всего 1$. Счастливчики, которые инвестировали  всего одну хрустящую купюру с изображением Франклина к концу 2017-го года стали миллионерами. Конечно, в наши дни, такой курс большьше походит на фантастику, однако даже сейчас на инвестициях в криптовалюту люди делают огромные состояния, даже не выходя из дома.</p>
                     </div>
                 </div>
                 <div class="col-12">
                     <div class="about-btc_additional">
-                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti eos vero corporis atque laboriosam deserunt architecto reiciendis nesciunt iure quidem in quasi voluptates voluptate, quibusdam delectus nostrum expedita magnam aspernatur! Sed vitae enim distinctio a tenetur, unde ducimus perferendis voluptatem tempora maiores inventore sit voluptatibus error numquam corporis aliquam veniam quae modi, at deleniti? Dolorum nesciunt animi, consequatur quam deserunt fugit praesentium eveniet veniam reprehenderit hic! Dolorum deserunt sed, soluta modi aspernatur in provident voluptas distinctio culpa ab fugit perferendis harum repudiandae accusamus magni iste cumque enim corrupti neque illo sapiente beatae? Enim, odio excepturi. Minima dolorum unde ducimus dignissimos saepe provident architecto optio veritatis obcaecati ipsa adipisci vel officia beatae itaque iste, voluptas non. Quo sapiente expedita magnam quas laudantium sint iure vitae, excepturi, quos modi error autem libero. Ullam quod obcaecati debitis facilis libero possimus consectetur suscipit dolore, esse soluta ex dolores quas adipisci quos et, aperiam est mollitia distinctio? Mollitia id, eius aut sapiente saepe, facilis voluptatem repellendus fugiat, totam dolor assumenda provident minus atque iure corrupti?</p>
+                        <p>Наверное самым ярким примером удачной инвестиции в биткоин, являеться ситуация с близнецами Уинклвоссами. Теми самыми которые подали иск в суд на знаменитого Марка Цукерберга. О том, что создатель Фейсбука регулярно светиться в судебных разбирательствах факт известный, однако, то, что отсудившие 11 миллионов братья стали миллиардерами именно на биткоине немногие знают. Они не единственные в своем роде. Мэттью Росзак, Роджер Вер, Чарли Шрем и многие другие продолжают инвестировать в криптовалюту и приумоножать свое состояние.</p>
+						<p>Более того, в последнее время эксперты прогнозируют рост курса BTC, и если вы решились на то, чтобы поменять свою жизнь к лучшему, то, именно сейчас самое удачное время для новых исследований и удачных вложений. Быть может и вы сможете пополнить список Forbes правильно распорядившись своими средствами.</p>
                     </div>
                 </div>
             </div>
@@ -318,8 +319,8 @@ $phoneNumberCode = $countryArray[$country_code]['code'];
         <div class="container">
             <div class="footer_text">
                 <div class="footer_logo">Your Logo |</div>
-                <div class="footer_copy">&copy;</div>
-                <div class="footer_phone">+380677117713</div>
+                <div class="footer_copy">trade100fm &copy; 2019</div>
+                <div class="footer_phone">+74993717705<br>+43720072523</div>
             </div>
         </div>
     </footer>
