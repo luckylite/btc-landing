@@ -1,6 +1,9 @@
 @import _normalize.scss
 @import _fonts.scss
 
+html, body
+    height: calc(100vh - 80px)
+
 body
     min-width: 320px
     overflow-x: hidden
@@ -147,5 +150,20 @@ body
             &:hover
                 background-color: #fff
                 color: #000
+
+.footer
+    background-color: #000
+    color: #fff
+    position: relative
+    top: -80px
+    &_text
+        padding: 20px 0
+        display: flex
+        justify-content: space-between
+    &_logo
+        font-weight: bold
+        font-size: 16px
+    &_copy
+        font-size: 20px
     
 @import _media.sass
