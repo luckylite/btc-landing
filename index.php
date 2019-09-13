@@ -262,9 +262,9 @@ $phoneNumberCode = $countryArray[$country_code]['code'];
     <header class="header">
         <div class="container">
             <div class="header_container tac">
-                <h1 class="header_title">Инвестируйте сегодня, чтобы<br>завтра проснуться другим.</h1>
-                <p class="header_subtitle">Занимайтесь вложениями прямо у себя дома.</p>
-                <p class="header_text">В связи со стремительным ростом биткоина на протяжении последних 5 месяцев Заработать на криптовалюте стало проще чем раньше. Инвестируя сегодня 8$ вы получаете 9$ уже завтра. Оставляйте свою заявку и получите шанс найти свою золотую жилу.</p>
+                <h1 class="header_title">Инвестируй сегодня, чтобы<br>завтра проснуться другим.</h1>
+                <p class="header_subtitle">Впервые на рынке инвестиции с гарантией доходности!</p>
+                <p class="header_text">В связи со стремительным ростом биткоина на протяжении последних 5 месяцев, заработать на криптовалюте стало проще, чем раньше. Инвестируя сегодня, на каждые 6$ вы получаете 10$ уже завтра! Оставляйте свою заявку и получите шанс найти свою золотую жилу.</p>
                 <a href="#feedback" class="header_button">Заполнить Бриф</a>
             </div>
         </div>
@@ -276,13 +276,13 @@ $phoneNumberCode = $countryArray[$country_code]['code'];
                 <div class="col-sm-12 col-md-6 offset-md-6">
                     <div class="about-btc_text">
                         <h2 class="about-btc_title tac">Немного о BTC</h2>
-                        <p>Биткоин впервые увидел свет в 2009 году. Появившаяся из под руки некого Сатоси Накамото криптовалюта сразу выросла в стоимости в несколько раз, однако на самом запуске проэкта 1 биткоин стоил всего 1$. Счастливчики, которые инвестировали  всего одну хрустящую купюру с изображением Франклина к концу 2017-го года стали миллионерами. Конечно, в наши дни, такой курс большьше походит на фантастику, однако даже сейчас на инвестициях в криптовалюту люди делают огромные состояния, даже не выходя из дома.</p>
+                        <p>Биткоин впервые увидел свет в 2009 году. Появившаяся из-под руки некого Сатоси Накамото криптовалюта сразу выросла в стоимости в несколько раз, однако на самом запуске проекта 1 биткоин стоил всего 1$. Счастливчики, которые инвестировали всего одну виртуальную монету  к концу 2017-го года стали миллионерами. Конечно, в наши дни, такой курс большьше походит на фантастику, однако даже сейчас на инвестициях в криптовалюту люди делают огромные состояния, даже не выходя из дома.</p>
                     </div>
                 </div>
                 <div class="col-12">
                     <div class="about-btc_additional">
-                        <p>Наверное самым ярким примером удачной инвестиции в биткоин, являеться ситуация с близнецами Уинклвоссами. Теми самыми которые подали иск в суд на знаменитого Марка Цукерберга. О том, что создатель Фейсбука регулярно светиться в судебных разбирательствах факт известный, однако, то, что отсудившие 11 миллионов братья стали миллиардерами именно на биткоине немногие знают. Они не единственные в своем роде. Мэттью Росзак, Роджер Вер, Чарли Шрем и многие другие продолжают инвестировать в криптовалюту и приумоножать свое состояние.</p>
-						<p>Более того, в последнее время эксперты прогнозируют рост курса BTC, и если вы решились на то, чтобы поменять свою жизнь к лучшему, то, именно сейчас самое удачное время для новых исследований и удачных вложений. Быть может и вы сможете пополнить список Forbes правильно распорядившись своими средствами.</p>
+                        <p>Наверное, самым ярким примером удачной инвестиции в биткоин, является ситуация с близнецами Уинклвоссами. Теми самыми, которые подали иск в суд на знаменитого Марка Цукерберга. То, что создатель Фейсбука регулярно светится в судебных разбирательствах - факт известный, однако, то, что отсудившие 11 миллионов братья стали миллиардерами именно на биткоине знают немногие. Они не единственные в своем роде: Мэттью Росзак, Роджер Вер, Чарли Шрем и многие другие продолжают инвестировать в криптовалюту и приумоножать свое состояние.</p>
+						<p>Более того, в последнее время эксперты прогнозируют рост курса BTC, и если Вы решились на то, чтобы поменять свою жизнь к лучшему, то, именно сейчас самое удачное время для новых исследований и удачных вложений. Быть может и Вы сможете пополнить список Forbes, правильно распорядившись своими средствами.</p>
                     </div>
                 </div>
             </div>
@@ -292,12 +292,21 @@ $phoneNumberCode = $countryArray[$country_code]['code'];
     <section class="section feedback">
         <div class="container">
             <div class="row">
-                <div class="col-lg-7 col-md-6">
+                <div class="col-lg-8 col-md-6">
                     <div class="feedback_text">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum soluta ducimus deserunt, fugit quae repellendus. Quae cumque cum deleniti repellendus commodi obcaecati corporis necessitatibus laboriosam dicta vero, est voluptatibus numquam nostrum ut debitis illum quod eum sit recusandae tenetur ipsam ducimus culpa natus! Cupiditate, autem rerum placeat saepe rem deserunt. Culpa quia enim est adipisci alias ratione soluta fugiat modi cum quos similique expedita reiciendis molestias illum, totam quasi magni provident libero ipsa consectetur quam ut? Perspiciatis placeat quam dignissimos obcaecati harum ad minus voluptatem quidem nam reiciendis, corrupti voluptates adipisci debitis hic sint minima nostrum iusto dolorem ea temporibus accusamus necessitatibus distinctio? Eius, beatae? Repudiandae consequatur ullam eius, iure dolor magni voluptates eaque, officia et placeat fugit possimus inventore earum reiciendis totam modi sint, quis dolore tenetur qui! Soluta ducimus dolor modi accusamus neque adipisci est optio mollitia quia veritatis, fugit quaerat dolorum, incidunt culpa in! Similique eius impedit esse, vitae expedita delectus atque dolorem? Atque nisi tenetur amet numquam nam magnam maiores iste a illo qui commodi, quia voluptatum consectetur, nulla voluptate accusamus similique reiciendis fugit adipisci! Explicabo ab temporibus accusamus totam excepturi nobis dolor eveniet nam officiis nostrum error impedit, soluta veniam asperiores ipsum quasi neque quos?</p>
+                        <p>Оставив свои контакты, Вы получаете:</p>
+						<ul>
+							<li>самый низкий курс биткоина на бирже</li>
+							<li>письменные гарантии вложений со стороны компании</li>
+							<li>детальную систему по удержанию капитала "на плаву" независимо от колебаний курса</li>
+							<li>мгновенный доход в 4$ на каждый вложенный 1$ за сутки!</li>
+							<li>еженедельную индексацию в размере +7% от суммы инвестиции!</li>
+							<li>самый комфортный для Вас старт по сумме - начать может каждый!</li>
+						</ul>
+                        <p>Сделайте первый шаг к Вашей мечте уже сейчас!</p>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 offset-lg-1">
+                <div class="col-lg-4 col-md-6">
                     <div class="feedback_form">
                         <form action="" id="feedback">
                             <h3>Форма обратной связи</h3>
